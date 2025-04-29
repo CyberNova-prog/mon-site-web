@@ -1,0 +1,27 @@
+/* Style global du corps de la page */
+body {
+    font-family: Arial, sans-serif; /* Police de caractères */
+    background-color: #f0f0f0; /* Couleur de fond */
+    color: #333; /* Couleur du texte */
+}
+
+/* Style du header (en-tête) */
+header {
+    background-color: #333; /* Couleur de fond du header */
+    color: white; /* Couleur du texte du header */
+    padding: 10px; /* Espacement autour du texte */
+    text-align: center; /* Centre le texte dans l'en-tête */
+}
+
+/* Style du contenu principal */
+main {
+    padding: 20px; /* Espacement autour du contenu */
+}
+
+/* Style du footer (pied de page) */
+footer {
+    text-align: center; /* Centre le texte du footer */
+    padding: 10px; /* Espacement autour du texte */
+    background-color: #333; /* Couleur de fond du footer */
+    color: white; /* Couleur du texte du footer */
+}
